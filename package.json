@@ -1,0 +1,13 @@
+﻿{
+  "name": "my-starter-scaffold",
+  "version": "0.1.0",
+  "description": "Minimal Node starter with HTTP server, tests, Docker, and CI.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "author": "",
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}

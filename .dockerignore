@@ -1,0 +1,6 @@
+﻿node_modules
+npm-cache
+.git
+.gitignore
+Dockerfile
+test
