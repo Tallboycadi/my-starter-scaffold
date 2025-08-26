@@ -17,3 +17,8 @@ npm start
 # open http://localhost:3000 or http://localhost:3000/health
 CI: first run test
 
+npm test
+docker build -t my-starter-scaffold .
+docker run -p 3000:3000 my-starter-scaffold
+
+##
