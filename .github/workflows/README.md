@@ -1,5 +1,5 @@
 # My Starter Scaffold
-
+[![node-ci](https://github.com/Tallboycadi/my-starter-scaffold/actions/workflows/ci.yml/badge.svg)](https://github.com/Tallboycadi/my-starter-scaffold/actions/workflows/ci.yml)
 Minimal Node.js starter with:
 - Built-in HTTP server (no dependencies)
 - `/health` endpoint for checks
