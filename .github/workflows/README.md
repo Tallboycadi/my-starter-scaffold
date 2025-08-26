@@ -11,4 +11,5 @@ Minimal Node.js starter with:
 ```bash
 npm start
 # open http://localhost:3000 or /health
+CI: first run test
 
